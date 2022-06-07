@@ -1,0 +1,6 @@
+c:\users\jacob\documents\visual studio 2013\Projects\PolyatomicDominoes\PolyatomicDominoes\bin\Debug\PolyatomicDominoes.exe.config
+c:\users\jacob\documents\visual studio 2013\Projects\PolyatomicDominoes\PolyatomicDominoes\bin\Debug\PolyatomicDominoes.exe
+c:\users\jacob\documents\visual studio 2013\Projects\PolyatomicDominoes\PolyatomicDominoes\bin\Debug\PolyatomicDominoes.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\PolyatomicDominoes\PolyatomicDominoes\obj\Debug\PolyatomicDominoes.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2013\Projects\PolyatomicDominoes\PolyatomicDominoes\obj\Debug\PolyatomicDominoes.exe
+c:\users\jacob\documents\visual studio 2013\Projects\PolyatomicDominoes\PolyatomicDominoes\obj\Debug\PolyatomicDominoes.pdb
